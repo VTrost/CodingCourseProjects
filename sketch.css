@@ -1,0 +1,23 @@
+
+body {
+    text-align: center;
+}
+
+
+#box {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    
+
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+}
+
+
+
+

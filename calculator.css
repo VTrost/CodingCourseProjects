@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  height: 16px;
+}
+
+.calculator {
+  background-color: lightblue;
+  padding: 8%;
+}
+
+.display {
+  border-style: solid;
+  text-align: center;
+  background-color: #DBDAD7;
+}
+
+.buttons {
+  text-align: center;
+  margin: 2%;
+}
+
+button {
+  font-size: 2em;
+  margin-top: 2%;
+}
+
+.op {
+  background-color: grey;
+}
